@@ -1,4 +1,5 @@
 {
+    "homepage": "https://wixtoolset.org/",
     "version": "3.11.1",
     "url": "https://github.com/wixtoolset/wix3/releases/download/wix3111rtm/wix311-binaries.zip",
     "bin": [
